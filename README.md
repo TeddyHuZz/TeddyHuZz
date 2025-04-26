@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Tailwind CSS, Vite, Chart.js, MongoDB, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-six-plum-17.vercel.app/](https://my-portfolio-six-plum-17.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://my-portfolio-six-plum-17.vercel.app/)
 
 - 💬 Ask me about **React.js, Frontend, Blockchain**
 
