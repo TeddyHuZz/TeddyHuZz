@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React.js, Tailwind CSS, Vite, Chart.js, MongoDB, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-six-plum-17.vercel.app/](https://my-portfolio-six-plum-17.vercel.app/]
+- 👨‍💻 All of my projects are available at [https://my-portfolio-six-plum-17.vercel.app/](https://my-portfolio-six-plum-17.vercel.app/)
 
 - 💬 Ask me about **React.js, Frontend, Blockchain**
 
 - 📫 How to reach me **keewenfeicyber@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGlqQuqhaY/23cy1eONU_98XWF9ZzIzhQ/view?utm_content=DAGlqQuqhaY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h70511da8b5]
+- 📄 Know about my experiences [https://www.canva.com/design/DAGlqQuqhaY/23cy1eONU_98XWF9ZzIzhQ/view?utm_content=DAGlqQuqhaY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h70511da8b5)
 
 - ⚡ Fun fact **I am extremely lazy**
 
