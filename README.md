@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **keewenfeicyber@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gUjuWnHQz1EKz9UbLpQwqvpAWqbNGi-e/view?usp=sharing](https://drive.google.com/file/d/1gUjuWnHQz1EKz9UbLpQwqvpAWqbNGi-e/view?usp=sharing)
+- 📄 Know about my experiences [https://www.canva.com/design/DAGlqQuqhaY/23cy1eONU_98XWF9ZzIzhQ/view?utm_content=DAGlqQuqhaY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h70511da8b5)
 
 - ⚡ Fun fact **I am extremely lazy**
 
