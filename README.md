@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wen Fei</h1>
 <h3 align="center">A passionate Software Engineer & Web Developer from Malaysia</h3>
 
-- 🔭 I’m currently working on **Expenses Tracker Website**
+- 🔭 I’m currently working on **Joining more Hackathon!**
 
 - 🌱 I’m currently learning **React.js, Tailwind CSS, Vite, Chart.js, MongoDB, Node.js**
 
