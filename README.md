@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Joining more Hackathon!**
 
-- 🌱 I’m currently learning **React.js, Tailwind CSS, Vite, Chart.js, MongoDB, Node.js**
+- 🌱 I’m currently learning **React.js, Tailwind CSS, Node.js, and Next.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://my-portfolio-six-plum-17.vercel.app/)
 
-- 💬 Ask me about **React.js, Frontend, Blockchain**
+- 💬 Ask me about **Web Development, Frontend, Blockchain**
 
 - 📫 How to reach me **keewenfeicyber@gmail.com**
 
