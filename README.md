@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://swenfei.vercel.app/)
 
-- 💬 Ask me about **Web Development, Frontend, Blockchain**
+- 💬 Ask me about **Web Development, Frontend Development, Blockchain**
 
-- 📫 How to reach me **swenfei@gmail.com**
+- 📫 How to reach me **swenfei04@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://swenfei.vercel.app/wenfei-resume.pdf)
 
