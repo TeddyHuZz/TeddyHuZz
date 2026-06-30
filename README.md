@@ -142,12 +142,7 @@ I am a passionate **Software Engineer & Web Developer** from Malaysia, specializ
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeddyHuZz&show_icons=true&theme=tokyonight&count_private=true" alt="Wen Fei's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyHuZz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeddyHuZz&theme=tokyonight" alt="GitHub Streak" width="97%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeddyHuZz&theme=tokyonight" alt="GitHub Streak" width="100%">
 </p>
 
 ---
