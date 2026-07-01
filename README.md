@@ -19,7 +19,7 @@ I am a passionate **Software Engineer & Web Developer** from Malaysia, specializ
 
 * 🔭 **Current Focus:** Joining more hackathons and building exciting web apps.
 * 🌱 **Learning Journey:** Master class on React.js, Tailwind CSS, Node.js, Next.js, and advanced cloud native architecture.
-* 👨‍💻 **Portfolio:** Check out my work at [swenfei.vercel.app](https://wenfei.vercel.app/).
+* 👨‍💻 **Portfolio:** Check out my work at [wenfei.vercel.app](https://wenfei.vercel.app/).
 * 📄 **Resume:** Read about my experiences [here](https://drive.google.com/file/d/1O87LXO2ESETJbgxpY4F3SWVlBBKqxox9/view).
 * ⚡ **Fun Fact:** I am extremely lazy—which makes me look for the most efficient, automated ways to solve problems. 😉
 
